@@ -1,7 +1,7 @@
-# smtp_email_Example
+# smtp_email_example
 
 
-KOR/ENGLISH
+KOR/ENGLISH Ver[1.0]<br>
 
   Send_Email(보낼 메일주소, 메일 전송 제목, 전송 내용) <br>
   Send_Email(SEND_EMAIL_ADDRESS, MAIL_TITLE, MAIL_CONTEXT) <br>
